@@ -1,1 +1,1 @@
-![App Preview] (/assets/imgs/IMG_1289.jpg)
+![App Preview](/assets/imgs/IMG_1289.jpg)
