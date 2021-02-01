@@ -38,7 +38,7 @@ class About extends React.Component {
               <Block flex style={styles.aboutCard}>
                 <Block middle style={styles.avatarContainer}>
                   <Image
-                    source={{ uri: Images.FAQPic }}
+                    source={{ uri: Images.FAQPic}}
                     style={styles.avatar}
                   />
                 </Block>

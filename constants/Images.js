@@ -8,13 +8,14 @@ const Outdoor = require("../assets/imgs/getPro-bg.png");
 const ArgonLogo = require("../assets/imgs/argonlogo.png");
 const iOSLogo = require("../assets/imgs/ios.png");
 const androidLogo = require("../assets/imgs/android.png");
-const AboutHeadImg = require("../assets/imgs/AboutHeadImg.jpg");
+
 // internet imgs
 
+const FAQPic = 'https://images.unsplash.com/photo-1596481768453-8befafc2d7ae?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1867&q=80';
 const AboutPicture = 'https://images.unsplash.com/photo-1594498653385-d5172c532c00?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3067&q=80';
 const SpecialPic = 'https://images.unsplash.com/photo-1565986437940-3acc90b603dc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80';
-const FAQPic = 'https://images.unsplash.com/photo-1427477321886-abc24e8ce923?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80';
 const ContactPic = 'https://images.unsplash.com/photo-1606410688276-103f1982f342?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1935&q=80';
+const AboutHeadImg = 'https://images.unsplash.com/photo-1594291609709-26e4759f2636?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80';
 
 const Viewed = [
 
@@ -32,6 +33,10 @@ export default {
   LogoOnboarding,
   AboutBackground,
   AboutPicture,
+  SpecialPic,
+  ContactPic,
+  FAQPic,
+  AboutHeadImg,
   SpecialEventsBackground,
   Viewed,
   Products,
